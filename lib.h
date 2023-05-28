@@ -4,6 +4,7 @@
 #include <iostream>
 #include <vector>
 #include <cmath>
+#include "pch.h"
 using namespace std;
 
 class Coordinates {

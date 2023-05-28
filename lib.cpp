@@ -1,5 +1,5 @@
 #include "lib.h"
-
+#include "pch.h"
 //Конструктор, вектора path_x, path_y - для сохранения пути
 Object::Object (int p_x, int p_y) {
     x = p_x;
